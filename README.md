@@ -4,7 +4,7 @@ A repository that covers core DevOps concepts with both theoretical explanations
 ## 📚 Documentation
   [1. DevOps Introduction](DevOpsIntroduction.md)
   
-  [2. Core Principles of DevOps](Core Principles of DevOps.md)
+  [2. DevOps Core Principles](DevOpsCorePrinciples.md)
 
 
 # DevOps lifecycle phases
