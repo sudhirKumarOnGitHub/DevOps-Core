@@ -2,7 +2,7 @@
 A repository that covers core DevOps concepts with both theoretical explanations and practical implementations.
 
 ## 📚 Documentation
-[Link Text](1. DevOps Introduction.md)
+[DevOps?](1. DevOps Introduction.md)
 
 
 
