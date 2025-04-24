@@ -1,7 +1,7 @@
 # DevOps_Core
 A repository that covers core DevOps concepts with both theoretical explanations and practical implementations.
 
-# Concept Covered
+## 📚 Documentation
 [Link Text](1. DevOps Introduction.md)
 
 
