@@ -6,6 +6,8 @@ A repository that covers core DevOps concepts with both theoretical explanations
   
   [2. DevOps Core Principles](DevOpsCorePrinciples.md)
 
+  [3. Key DevOps Tools (by Category)](DevOpsTools.md)
+
 
 # DevOps lifecycle phases
 
