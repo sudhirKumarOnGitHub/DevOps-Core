@@ -1,7 +1,3 @@
-# DevOps_Core
-A repository that covers core DevOps concepts with both theoretical explanations and practical implementations.
-
-
 ## DevOps
    - a combination of Development (Dev) and Operations (Ops)
    - which is a set of practices, cultural philosophies, and tools that increase an organization's ability to deliver applications and services at high velocity.
@@ -11,10 +7,6 @@ A repository that covers core DevOps concepts with both theoretical explanations
    - The goal is to shorten the development lifecycle, ensure continuous delivery, and maintain high software quality.
 	
 
-
-
-	
-	
 ## Benefits of DevOps
 - Faster delivery of features
 
