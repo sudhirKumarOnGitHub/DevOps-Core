@@ -3,7 +3,7 @@ A repository that covers core DevOps concepts with both theoretical explanations
 
 ## 📚 Documentation
 
-  [0. DevOps References](https://github.com/milanm/DevOps-Roadmap)
+  [0. DevOps References](DevOpsReferences.md)
 
   [1. DevOps Introduction](DevOpsIntroduction.md)
   
