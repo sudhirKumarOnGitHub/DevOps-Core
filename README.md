@@ -3,14 +3,14 @@ A repository that covers core DevOps concepts with both theoretical explanations
 
 ## 📚 Documentation
 
-  [0. DevOps References](DevOpsReferences.md)
+  [0. DevOps References](Docs/DevOpsReferences.md)
 
-  [1. DevOps Introduction](DevOpsIntroduction.md)
+  [1. DevOps Introduction](Docs/DevOpsIntroduction.md)
   
-  [2. DevOps Core Principles](DevOpsCorePrinciples.md)
+  [2. DevOps Core Principles](Docs/DevOpsCorePrinciples.md)
 
-  [3. Key DevOps Tools (by Category)](DevOpsTools.md)
+  [3. Key DevOps Tools (by Category)](Docs/DevOpsTools.md)
 
-  [4. Typical DevOps Lifecycle phases](DevOpsLifecycle.md)
+  [4. Typical DevOps Lifecycle phases](Docs/DevOpsLifecycle.md)
 
 
