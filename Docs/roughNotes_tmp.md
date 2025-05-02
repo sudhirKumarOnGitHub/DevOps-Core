@@ -54,10 +54,64 @@ the core value of CAMS (culture, automation, measurement, and sharing).
 
 - It also works for both product engineering type organizations and internal IT organizations. Different DevOps practices and tools are more relevant for one type of work or another, but at a high level, the principles and methods help all kinds of technology teams.
 
-- what DevOps is not.
-  It's not just a new name for an operations team, or a new name for an existing job title. It's not one person doing every single job, and it doesn't require 
-  using any specific tool. Keep in mind that a lot of people use the term DevOps without really understanding what it means. So always check what you're hearing 
-  against the core concepts of DevOps.
+## what DevOps is not for?
+It's not just a new name for an operations team, or 
+a new name for an existing job title. 
+It's not one person doing every single job, and it doesn't require using any specific tool. 
+Keep in mind that a lot of people use the term DevOps without really understanding what it means. 
+So always check what you're hearing against the core concepts of DevOps.
+
+DevOps is a powerful methodology, but it is not for everything. 
+
+Here are key things DevOps is not for:
+
+- 🚫 Not a Replacement for Development or Operations: 
+  DevOps doesn’t eliminate the need for developers or operations engineers. It's a collaboration model, not a replacement.
+
+- 🚫 Not a Tool or Just Automation:
+  DevOps is not just Jenkins, Docker, or Kubernetes. Tools support DevOps, but DevOps is a culture and mindset, not a single tool or tech stack.
+
+- 🚫 Not a One-Time Setup:
+  You can’t just “do DevOps” once. It's not a project with an end date—it’s a continuous process of improvement.
+
+- 🚫 Not Only for Large Enterprises:
+  Although large companies benefit from DevOps, it’s not exclusive to them. Startups and small teams can also apply DevOps practices.
+
+- 🚫 Not Waterfall with Automation:
+  DevOps is not compatible with rigid, linear processes. If you're still using waterfall methods and just automating parts, that’s not true DevOps.
+
+- 🚫 Not Just CI/CD:
+  Continuous Integration and Continuous Delivery are only a part of DevOps. DevOps also includes monitoring, feedback, collaboration, and agile practices.
+
+- 🚫 Not a Silver Bullet:
+  DevOps won’t automatically fix bad code, poor communication, or weak business strategy. It amplifies both strengths and weaknesses.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
