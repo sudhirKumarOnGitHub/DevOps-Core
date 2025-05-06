@@ -3,6 +3,5 @@ This repository covers core DevOps concepts with both theoretical explanations a
 
 ## 📚 Documentation
   - [DevOps_Foundations](Docs/DevOps_Foundations.md) 
-  - [DevOps References](Docs/DevOpsReferences.md)
 
 
