@@ -1,6 +1,20 @@
 # DevOps_Core
 This repository covers core DevOps concepts with both theoretical explanations and practical implementations.
 
+## 🧰 Tool Summary
+
+| Category         | Tools / Tech Stack                      |
+|------------------|------------------------------------------|
+| Version Control  | Git, GitHub/GitLab                      |
+| Containers       | Docker                                  |
+| CI/CD            | Jenkins, GitHub Actions, CircleCI       |
+| IaC              | Ansible, Terraform                      |
+| Cloud            | AWS, GCP, Azure                         |
+| Monitoring       | Prometheus, Grafana, ELK                |
+| Security         | Trivy, Vault, Snyk                      |
+| Orchestration    | Kubernetes, Helm                        |
+
+
 
 ## practical DevOps learning path
 Here's a practical DevOps learning path designed for someone who wants hands-on skills and real-world tools, with progression from beginner to advanced level.
@@ -82,19 +96,6 @@ Here's a practical DevOps learning path designed for someone who wants hands-on 
   - CKA – Certified Kubernetes Administrator
   - HashiCorp Certified: Terraform Associate
 
-
-## ## 🧰 Tool Summary
-
-| Category         | Tools / Tech Stack                      |
-|------------------|------------------------------------------|
-| Version Control  | Git, GitHub/GitLab                      |
-| Containers       | Docker                                  |
-| CI/CD            | Jenkins, GitHub Actions, CircleCI       |
-| IaC              | Ansible, Terraform                      |
-| Cloud            | AWS, GCP, Azure                         |
-| Monitoring       | Prometheus, Grafana, ELK                |
-| Security         | Trivy, Vault, Snyk                      |
-| Orchestration    | Kubernetes, Helm                        |
 
 
 
