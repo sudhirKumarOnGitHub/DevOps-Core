@@ -83,17 +83,18 @@ Here's a practical DevOps learning path designed for someone who wants hands-on 
   - HashiCorp Certified: Terraform Associate
 
 
-## 🧰 Tool Summary
-```
-Category	                  Tools / Tech Stack
-Version Control	            Git, GitHub/GitLab
-Containers	                Docker
-CI/CD	                      Jenkins, GitHub Actions, CircleCI
-IaC	                        Ansible, Terraform
-Cloud	                      AWS, GCP, Azure
-Monitoring	                Prometheus, Grafana, ELK
-Security	                  Trivy, Vault, Snyk
-Orchestration	              Kubernetes, Helm
-```
+## ## 🧰 Tool Summary
+
+| Category         | Tools / Tech Stack                      |
+|------------------|------------------------------------------|
+| Version Control  | Git, GitHub/GitLab                      |
+| Containers       | Docker                                  |
+| CI/CD            | Jenkins, GitHub Actions, CircleCI       |
+| IaC              | Ansible, Terraform                      |
+| Cloud            | AWS, GCP, Azure                         |
+| Monitoring       | Prometheus, Grafana, ELK                |
+| Security         | Trivy, Vault, Snyk                      |
+| Orchestration    | Kubernetes, Helm                        |
+
 
 
