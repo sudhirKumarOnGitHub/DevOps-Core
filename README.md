@@ -26,7 +26,8 @@ Here's a practical DevOps learning path designed for someone who wants hands-on 
 - 🎓 Phase 6: Real Projects & Certification
 
 
-## 🧱 Phase 1: Foundations
+## 🧱 Phase 1: Foundations: Understand the DevOps principles and practices.
+Let’s clearly and deeply understand the core principles and practices of DevOps. This is important whether you're preparing for a job, building projects, or transitioning into a DevOps role.
 - 🔧 1. Understand the Basics
   - Learn what DevOps is – Goals, culture, and lifecycle (CI/CD, automation, monitoring).
   - Key Concepts: Agile, SDLC, Infrastructure as Code, Continuous Integration, Continuous Deployment.
