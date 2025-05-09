@@ -1,7 +1,8 @@
 # DevOps_Core
 This repository covers core DevOps concepts with both theoretical explanations and practical implementations.
 
-## 🧰 Tool Summary
+
+## 🧰 DevOps Tool Summary
 
 | Category         | Tools / Tech Stack                      |
 |------------------|------------------------------------------|
@@ -16,7 +17,7 @@ This repository covers core DevOps concepts with both theoretical explanations a
 
 
 
-## practical DevOps learning path
+## Practical DevOps learning path
 Here's a practical DevOps learning path designed for someone who wants hands-on skills and real-world tools, with progression from beginner to advanced level.
 - 🧱 Phase 1: DevOps Foundations
 - 💻 Phase 2: Essential Skills & Tools
