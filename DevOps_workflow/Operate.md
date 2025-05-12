@@ -1,5 +1,25 @@
 ## 🔍 7. Operate
-- Goal: High availability and performance.
-- Tools: Kubernetes, Docker, AWS/Azure/GCP, Ansible
-- Activities: Maintain infrastructure and environment stability.
-- Practices: Monitoring resources, scaling, configuration management.
+- Goal:
+  - Ensure High uptime/availability and performance.
+
+- Activities:
+  - Maintain infrastructure and environment stability.
+  - System monitoring,
+  - log management,
+  - performance tracking.
+
+- Practices:
+  - Monitoring resources,
+  - scaling,
+  - configuration management.
+
+- Tools:
+  - Kubernetes,
+  - Docker,
+  - AWS/Azure/GCP,
+  - Ansible
+  - Prometheus,
+  - Grafana,
+  - ELK Stack,
+  - Datadog,
+  - AWS CloudWatch
