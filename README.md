@@ -19,6 +19,7 @@ Here is a typical DevOps workflow:
 - 🔍 7. Operate
 - 📊 8. Monitor & Feedback
 - repeat from stage 1 based on feedback for continous improvement of software.
+
 🔁 Continuous Feedback Loop: Feedback from monitoring feeds back into planning and development for continuous improvement.
 
 
