@@ -1,10 +1,15 @@
 ## 📊 8. Monitor & Feedback
+Metrics and logs are analyzed to provide feedback for improvement.
+
 - Goal:
   - Identify and resolve issues early,
   - improve next cycle.
   - Continuous improvement and user satisfaction.
  
 - Activities:
+  - Postmortems (after incidents)
+  - Feedback to dev teams
+  - Continuous improvement
   - Log aggregation,
   - monitoring,
   - alerts, and
@@ -25,3 +30,6 @@
   - Sentry,
   - PagerDuty,
   - Opsgenie
+  - Jira for bug tracking
+  - User feedback systems
+  - A/B Testing
