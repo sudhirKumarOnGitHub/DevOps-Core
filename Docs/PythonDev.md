@@ -1,4 +1,21 @@
 # End-to-End DevOps Toolchain for Python Development in detailed
+
+- ✅ Example Flow
+```
+  1. Developer pushes code to GitHub.
+  2. GitHub Actions triggers CI pipeline: lint → test → build Docker image.
+  3. Image pushed to Docker Hub.
+  4. Terraform provisions AWS EC2 or EKS.
+  5. Ansible installs dependencies on EC2.
+  6. CD tool deploys the container to production.
+  7. Monitoring tools watch system health and alert via Slack.
+  8. Security tools scan continuously for threats.
+
+```
+
+
+
+
 An End-to-End DevOps Toolchain for Python Development integrates various tools and practices to streamline 
 - the development,
 - testing,
