@@ -13,12 +13,12 @@ The goal is to deliver software faster, with higher quality, and in a more relia
 Here is a typical DevOps workflow:
 - 🔁 1. [Plan](./DevOps_workflow/Plan.md)
 - 💻 2. [Develop](DevOps_workflow/Develop.md)
-- 🔧 3. Build
-- 🧪 4. Test
-- 📦 5. Release
-- 🚀 6. Deploy
-- 🔍 7. Operate
-- 📊 8. Monitor & Feedback
+- 🔧 3. [Build](DevOps_workflow/Build.md)
+- 🧪 4. [Test](DevOps_workflow/Test.md)
+- 📦 5. [Release](DevOps_workflow/Release.md)
+- 🚀 6. [Deploy](DevOps_workflow/Deploy.md)
+- 🔍 7. [Operate](DevOps_workflow/Operate.md)
+- 📊 8. [Monitor & Feedback](DevOps_workflow/MonitorAndFeedback.md)
 - repeat from stage 1 based on feedback for continous improvement of software.
 
 🔁 Continuous Feedback Loop: Feedback from monitoring feeds back into planning and development for continuous improvement.
