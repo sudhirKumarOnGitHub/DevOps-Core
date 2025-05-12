@@ -24,6 +24,12 @@ Here is a typical DevOps workflow:
 🔁 Continuous Feedback Loop: Feedback from monitoring feeds back into planning and development for continuous improvement.
 
 
-
+## ✅ Common DevOps Practices
+- CI/CD (Continuous Integration/Continuous Deployment)
+- Infrastructure as Code (IaC)
+- Automated Testing
+- Monitoring and Logging
+- Configuration Management
+- Collaboration & Communication
 
 
