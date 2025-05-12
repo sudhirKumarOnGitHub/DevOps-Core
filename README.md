@@ -57,8 +57,8 @@ Package → Deploy to staging → Test → Manual/auto approval → Deploy to pr
 
 
 
-
-
+## More info
+- [End-to-End DevOps Toolchain for Python Development in detailed](PythonDev.md)
 
 
 
