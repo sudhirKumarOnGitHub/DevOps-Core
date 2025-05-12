@@ -11,7 +11,7 @@ A DevOps workflow outlines the stages and practices followed to enable continuou
 The goal is to deliver software faster, with higher quality, and in a more reliable and repeatable manner.
 
 Here is a typical DevOps workflow:
-- 🔁 1. Plan: (DevOps_workflow/Plan.md)
+- 🔁 1. Plan: (./DevOps_workflow/Plan.md)
 - 💻 2. Develop
 - 🔧 3. Build
 - 🧪 4. Test
