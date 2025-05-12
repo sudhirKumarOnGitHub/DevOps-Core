@@ -33,3 +33,52 @@ Here is a typical DevOps workflow:
 - Collaboration & Communication
 
 
+## 🔄 Continuous Integration / Continuous Delivery (CI/CD)
+A key DevOps workflow that automates code integration, testing, and deployment.
+
+CI Pipeline:
+Code push → Build → Test → Package → Notify
+
+CD Pipeline:
+Package → Deploy to staging → Test → Manual/auto approval → Deploy to prod
+
+
+## 🧰 Sample End-to-End DevOps Toolchain
+| Stage   | Tool(s)                        |
+| ------- | ------------------------------ |
+| Plan    | Jira, Trello                   |
+| Code    | GitHub, GitLab, Bitbucket      |
+| Build   | Jenkins, Maven, npm, Docker    |
+| Test    | Selenium, JUnit, SonarQube     |
+| Release | ArgoCD, Spinnaker              |
+| Deploy  | Kubernetes, Terraform, Ansible |
+| Operate | Prometheus, Grafana, ELK       |
+| Monitor | Datadog, AWS CloudWatch        |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
