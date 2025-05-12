@@ -1,4 +1,6 @@
 ## 💻 2. Develop
+The actual coding work is done in this phase using version control and collaborative practices.
+
 - Goal:
   - Modular,
   - testable, and
@@ -6,8 +8,9 @@
  
 - Activities:
   - Code development/writing,
-  - version control, and
-  - branching strategies.
+  - Code reviews,
+  - version control,
+  - branching strategies(Gitflow, trunk-based)
   - peer code reviews.
 
 - Practices:
@@ -18,6 +21,5 @@
   - pair programming.
 
 - Tools:
-  - Git,
-  - GitHub/GitLab/Bitbucket
+  - Git(GitHub/GitLab/Bitbucket)
   - IDEs (VSCode, IntelliJ)
