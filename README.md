@@ -22,9 +22,23 @@ Here is a typical DevOps workflow:
 
 
 ## 🔁 1. Plan
-- Goal: Clear roadmap and requirements.
-- Tools: Jira, Trello, Azure Boards
-- Activities: Define user stories, tasks, features, and release plans.
+- Goal:
+  - define Clear roadmap
+  - requirements gathering.
+  - Align business objectives with development goals.
+    
+- Activities:
+  - Define user stories,
+  - tasks,
+  - features, and
+  - release plans.
+  - task planning,
+  - sprint planning.
+
+- Tools:
+  - Jira,
+  - Trello,
+  - Azure Boards
 
 
 ## 💻 2. Develop
