@@ -1,4 +1,6 @@
 ## 📦 5. Release
+Software is prepared and released into production (or staging) environments.
+
 - Goal:
   - Ready-to-deploy software.
 
@@ -9,6 +11,9 @@
   - Approvals,
   - release automation,
   - tagging versions.
+  - Version tagging
+  - Change approval
+  - Artifact promotion
 
 - Practices:
   - Tagging,
@@ -18,9 +23,11 @@
   - feature toggles.
 
 - Tools:
+  - GitHub Actions
   - Jenkins,
   - GitLab CI/CD,
   - Azure Pipelines
+  - ArgoCD, Spinnaker
 
 
 
