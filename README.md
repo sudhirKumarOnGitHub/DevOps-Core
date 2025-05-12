@@ -12,7 +12,7 @@ The goal is to deliver software faster, with higher quality, and in a more relia
 
 Here is a typical DevOps workflow:
 - 🔁 1. [Plan](./DevOps_workflow/Plan.md)
-- 💻 2. Develop
+- 💻 2. [Develop](DevOps_workflow/Develop.md)
 - 🔧 3. Build
 - 🧪 4. Test
 - 📦 5. Release
