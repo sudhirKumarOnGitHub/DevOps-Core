@@ -1,4 +1,6 @@
 ## 🚀 6. Deploy
+Application is deployed to production or other environments (staging, QA).
+
 - Goal:
   - Reliable and automated deployment.
 
@@ -6,6 +8,9 @@
   - Deploy to test/staging/production environments.
   - Provisioning infrastructure,
   - deploying applications to staging/production.
+  - Blue-green deployment
+  - Canary releases
+  - Rollback strategies
 
 - Practices:
   - Infrastructure as Code (IaC),
@@ -21,6 +26,8 @@
   - Ansible,
   - Helm,
   - Terraform
+  - Terraform/Ansible (Infrastructure as Code)
+  - AWS CodeDeploy, Azure DevOps
 
 
 
