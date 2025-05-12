@@ -6,8 +6,9 @@ This repository covers core DevOps concepts with both theoretical explanations a
 
 
 ## DevOps workflow?
-- A DevOps workflow outlines the stages and practices followed to enable continuous development, integration, testing, deployment, and monitoring of applications.
-- The goal is to deliver software faster, with higher quality, and in a more reliable and repeatable manner.
+A DevOps workflow outlines the stages and practices followed to enable continuous development, integration, testing, deployment, and monitoring of applications.
+
+The goal is to deliver software faster, with higher quality, and in a more reliable and repeatable manner.
 
 Here is a typical DevOps workflow:
 - 🔁 1. Plan
