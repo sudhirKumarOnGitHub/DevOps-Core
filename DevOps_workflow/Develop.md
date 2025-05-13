@@ -21,5 +21,7 @@ The actual coding work is done in this phase using version control and collabora
   - pair programming.
 
 - Tools:
-  - Git(GitHub/GitLab/Bitbucket)
-  - IDEs (VSCode, IntelliJ)
+  - Git - Distributed version control system.
+  - GitHub/GitLab/Bitbucket - Git hosting with collaboration features
+  - IDEs (VSCode/IntelliJ/PyCharm) - Popular IDEs
+  - Pre-commit hooks – Automated checks before commits
