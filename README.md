@@ -6,7 +6,6 @@ This repository covers core DevOps concepts with both theoretical explanations a
 
 
 ## 🧰 End-to-End DevOps Toolchain
-|-------------------|--------------------------------------------|
 | Stage             | Tool(s)                                    |
 | ------------------| -------------------------------------------|
 | Plan              | Jira, [More](./DevOps_workflow/Plan.md)    |
@@ -17,7 +16,7 @@ This repository covers core DevOps concepts with both theoretical explanations a
 | Deploy            | Kubernetes, Terraform, Ansible             |
 | Operate           | Prometheus, Grafana, ELK                   |
 | Monitor           | Datadog, AWS CloudWatch                    |
-|-------------------|--------------------------------------------|
+
 
 ## DevOps workflow?
 A DevOps workflow outlines the stages and practices followed to enable continuous development, integration, testing, deployment, and monitoring of applications.
