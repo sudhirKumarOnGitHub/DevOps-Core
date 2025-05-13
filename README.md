@@ -1,8 +1,21 @@
 # DevOps_Core
-This repository covers core DevOps concepts with both theoretical explanations and practical implementations.
+This repository covers core DevOps concepts with both theoretical explanations and practical implementations focus for Python Development.
 
 
 ## What is DevOps ?
+
+
+## 🧰 End-to-End DevOps Toolchain
+| Stage         | Tool(s)                        |
+| -------       | ------------------------------ |
+| Plan          | Jira, Trello                   |
+| Code/Develop  | GitHub, GitLab, Bitbucket      |
+| Build         | Jenkins, Maven, npm, Docker    |
+| Test          | Selenium, JUnit, SonarQube     |
+| Release       | ArgoCD, Spinnaker              |
+| Deploy        | Kubernetes, Terraform, Ansible |
+| Operate       | Prometheus, Grafana, ELK       |
+| Monitor       | Datadog, AWS CloudWatch        |
 
 
 ## DevOps workflow?
@@ -41,21 +54,6 @@ Code push → Build → Test → Package → Notify
 
 CD Pipeline:
 Package → Deploy to staging → Test → Manual/auto approval → Deploy to prod
-
-
-## 🧰 Sample End-to-End DevOps Toolchain
-| Stage   | Tool(s)                        |
-| ------- | ------------------------------ |
-| Plan    | Jira, Trello                   |
-| Code    | GitHub, GitLab, Bitbucket      |
-| Build   | Jenkins, Maven, npm, Docker    |
-| Test    | Selenium, JUnit, SonarQube     |
-| Release | ArgoCD, Spinnaker              |
-| Deploy  | Kubernetes, Terraform, Ansible |
-| Operate | Prometheus, Grafana, ELK       |
-| Monitor | Datadog, AWS CloudWatch        |
-
-
 
 ## More info
 - [End-to-End DevOps Toolchain for Python Development in detailed](Docs/PythonDev.md)
