@@ -17,10 +17,10 @@ This is the first stage where project requirements, timelines, and goals are set
   - release plans.
 
 - Tools:
-  - Jira,
-  - Trello,
-  - Azure Boards
-  - Confluence,
+  - Jira: Agile project management and issue tracking.
+  - Trello: Lightweight task board
+  - Azure Boards: Work item tracking for Agile teams
+  - Confluence:  Documentation and team collaboration
   - Notion (Documentation)
  
 
