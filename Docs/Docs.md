@@ -8,6 +8,7 @@
 - [📊 Logging and Monitoring](LoggingAndMonitoring.md)
 - [🧠 Infrastructure as Code (IaC)](IaC.md)
 - [📌 Practical Day-to-Day Workflow](Practical-Day-to-Day-Workflow.md)
+- [🧩 DevOps Mindset](DevOps-Mindset.md)
 
 
 
