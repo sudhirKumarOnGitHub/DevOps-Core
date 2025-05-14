@@ -6,6 +6,7 @@
 - [🐳 Containerization (Docker in Action)](Containerization.md)
 - [☁️ Deploy to the Cloud](Cloud.md)
 - [📊 Logging and Monitoring](LoggingAndMonitoring.md)
+- [🧠 Infrastructure as Code (IaC)](IaC.md)
 
 
 
