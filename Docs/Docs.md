@@ -10,6 +10,7 @@
 - [📌 Practical Day-to-Day Workflow](Practical-Day-to-Day-Workflow.md)
 - [🧩 DevOps Mindset](DevOps-Mindset.md)
 - [🎯 Top DevOps Tools (At a Glance)](Top-DevOps-Tools.md)
+- [🧰 DevOps Starter Kit (Learning Path)](DevOps-Learning-Path.md)
 
 
 
