@@ -6,3 +6,5 @@ From a practical point of view, DevOps is not just a set of tools or processes, 
 
 [click me to understand devOps in detailed](Docs/Docs.md)
 
+[click me undertand practical explanation of day-to-day used DevOps terms](day-to-day-used-DevOps-terms.md)
+
