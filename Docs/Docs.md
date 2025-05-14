@@ -7,7 +7,7 @@
 - [☁️ Deploy to the Cloud](Cloud.md)
 - [📊 Logging and Monitoring](LoggingAndMonitoring.md)
 - [🧠 Infrastructure as Code (IaC)](IaC.md)
-
+- [📌 Practical Day-to-Day Workflow](Practical-Day-to-Day-Workflow.md)
 
 
 
