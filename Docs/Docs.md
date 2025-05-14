@@ -1,7 +1,13 @@
-##🔧 Practical Explanation of DevOps
-- 🔄 1. Continuous Integration (CI)
-- 🚀 2. Continuous Delivery/Deployment (CD)
-- 📦 3. Infrastructure as Code (IaC)
+# DevOps
+- 🔧 Practical Explanation of DevOps
+  - 🔄 1. Continuous Integration (CI)
+  - 🚀 2. Continuous Delivery/Deployment (CD)
+  - 📦 3. Infrastructure as Code (IaC)
+  - 🔍 4. Monitoring and Logging
+  - 🔐 5. Security (DevSecOps)
+- 👷 Real-world DevOps Flow Example:
+- 🛠️ Essential DevOps Tools (Practical View)
+- ✅ Benefits of DevOps in Practice
 
 
 ## 🔄 1. Continuous Integration (CI)
