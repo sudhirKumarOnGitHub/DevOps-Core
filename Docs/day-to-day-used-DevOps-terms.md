@@ -32,6 +32,24 @@ These are terms you’ll encounter regularly in real-world work:
 - Nexus, JFrog Artifactory: Artifact repositories for storing build outputs (e.g., JARs, Docker images).
 
 
+## ☁️ Cloud & Infrastructure
+- Infrastructure as Code (IaC): Managing and provisioning infrastructure using code.
+
+- AWS, Azure, Google Cloud Platform (GCP): Major cloud service providers.
+
+- Load Balancer: Distributes traffic across multiple servers.
+
+- Auto Scaling: Automatically adjusts the number of resources based on load.
+
+
+## 📈 Monitoring & Logging
+- Prometheus, Grafana: Monitoring and alerting tools.
+
+- ELK Stack (Elasticsearch, Logstash, Kibana): Log management and visualization.
+
+- Splunk, Datadog, New Relic: Commercial monitoring/logging tools.
+
+
 
 ## 🔐 Security & Compliance
 - DevSecOps: Integrating security practices into the DevOps pipeline.
