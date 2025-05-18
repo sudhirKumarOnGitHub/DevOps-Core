@@ -11,7 +11,8 @@ This repository covers core DevOps concepts with both theoretical explanations a
   - Ops want stability.
   - DevOps bridges the two by automating and standardizing workflows.
 
+- [DevOps terms - click me undertand practical explanation of day-to-day used DevOps terms](day-to-day-used-DevOps-terms.md)
 - [click me to understand devOps in detailed](Docs/Docs.md)
 
-- [DevOps terms - click me undertand practical explanation of day-to-day used DevOps terms](day-to-day-used-DevOps-terms.md)
+
 
