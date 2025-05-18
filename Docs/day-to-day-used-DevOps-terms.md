@@ -1,7 +1,56 @@
-# practical explanation of day-to-day used DevOps terms
+# Practical explanation of day-to-day used DevOps terms
 Here’s a practical explanation of day-to-day DevOps terms, especially useful for someone working in or preparing for a DevOps role. 
 
 These are terms you’ll encounter regularly in real-world work:
+
+## 🔁 Core DevOps Concepts
+-DevOps: A set of practices that combines software development (Dev) and IT operations (Ops) to shorten the development lifecycle and deliver high-quality software continuously.
+
+- CI/CD:
+  - Continuous Integration (CI): Frequently merging code changes into a shared repository and automatically testing them.
+  - Continuous Delivery (CD): Automatically deploying tested code to a staging or production environment.
+  - Continuous Deployment: Extends CD by automatically pushing code to production after successful tests.
+
+- SDLC: Software Development Life Cycle — the process of planning, creating, testing, and deploying software.
+
+
+## ⚙️ Tools & Automation
+- Jenkins, GitLab CI, CircleCI, Travis CI: Popular CI/CD tools.
+
+- Ansible, Chef, Puppet, SaltStack: Configuration management tools.
+
+- Terraform, Pulumi: Infrastructure as Code (IaC) tools.
+
+- Docker: A platform for containerizing applications.
+
+- Kubernetes (K8s): Container orchestration platform.
+
+- Helm: Kubernetes package manager.
+
+- Git: Version control system.
+
+- Nexus, JFrog Artifactory: Artifact repositories for storing build outputs (e.g., JARs, Docker images).
+
+
+
+## 🔐 Security & Compliance
+- DevSecOps: Integrating security practices into the DevOps pipeline.
+
+- Secrets Management: Safely storing credentials (e.g., HashiCorp Vault, AWS Secrets Manager).
+
+- Static Application Security Testing (SAST), Dynamic Application Security Testing (DAST): Automated security analysis techniques.
+
+
+## 🔄 Other Important Terms
+- Blue-Green Deployment: Two identical production environments used to reduce downtime.
+
+- Canary Deployment: Gradually rolling out new versions to a small set of users before full deployment.
+
+- Rollback: Reverting to a previous stable version.
+
+- Pipeline: A series of automated steps for building, testing, and deploying software.
+
+- Artifact: A compiled code or package ready for deployment (e.g., WAR file, Docker image).
 
 
 ## 🛠️ CI/CD (Continuous Integration / Continuous Deployment)
