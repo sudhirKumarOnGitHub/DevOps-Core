@@ -13,5 +13,5 @@ This repository covers core DevOps concepts with both theoretical explanations a
 
 - [click me to understand devOps in detailed](Docs/Docs.md)
 
-- [click me undertand practical explanation of day-to-day used DevOps terms](day-to-day-used-DevOps-terms.md)
+- [DevOps terms - click me undertand practical explanation of day-to-day used DevOps terms](day-to-day-used-DevOps-terms.md)
 
