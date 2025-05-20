@@ -13,6 +13,10 @@ Similarly:
   - Docker "boxes" your application with everything it needs (code, libraries, environment).
   - You can ship this container to any machine (dev, test, production), and it will work exactly the same across all operating systems.
 
+## 🛠 Prerequisites
+Make sure you have:
+  - Docker installed on your system.
+
 
 ## 🔍 Real-Life Scenario (Without Docker)
 You write a Python app:
