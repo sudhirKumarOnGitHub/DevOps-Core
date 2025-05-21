@@ -43,9 +43,9 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
   - YAML basics
 
 - 🧪 Practice
-- Create a GitHub repo
-- Write a Bash script to install packages
-- Practice Git workflows (clone, branch, merge, PR)
+  - Create a GitHub repo
+  - Write a Bash script to install packages
+  - Practice Git workflows (clone, branch, merge, PR)
 
 
 ## 🛠️ Phase 2: CI/CD with Jenkins or GitHub Actions (2-3 weeks)
