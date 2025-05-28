@@ -1,5 +1,5 @@
 # DevOps-Core
-This repository covers core DevOps concepts with both theoretical explanations and practical implementations.
+This repository provides a comprehensive exploration of core DevOps concepts, combining clear theoretical explanations with hands-on practical implementations.
 
 ## DevOps ?
 From a practical point of view, DevOps is not just a set of tools or processes, but a culture and workflow that bridges the gap between software development (Dev) and IT operations (Ops) to deliver software faster, more reliably, and with better quality. 
