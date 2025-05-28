@@ -13,7 +13,7 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
   - Ops want stability.
   - DevOps bridges the two by automating and standardizing workflows.
 
-- [**DevOps terms** click me undertand practical explanation of day-to-day used DevOps terms](Docs/day-to-day-used-DevOps-terms.md)
+- [click me to undertand **DevOps terms** with practical explanation of day-to-day used DevOps terms](Docs/day-to-day-used-DevOps-terms.md)
 - [click me to understand devOps in detailed](Docs/Docs.md)
 
 
