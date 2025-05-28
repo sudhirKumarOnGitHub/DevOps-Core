@@ -3,7 +3,7 @@
 ## Simple Calculator End-to-End Development Guide
 Got it! You want an end-to-end development guide for a simple calculator. I’ll cover the entire process from planning, designing, coding, testing, to deployment — and keep it simple but practical.
 
-1. Project Planning
+## 1. Project Planning
 Define scope and features:
   - Basic arithmetic operations: Add, Subtract, Multiply, Divide
   - Input: two numbers
@@ -12,13 +12,13 @@ Define scope and features:
   - Error handling (e.g., divide by zero, invalid inputs)
 
 
-2. Choose Technology Stack
+## 2. Choose Technology Stack
   - Language: Python (easy and popular for beginners)
   - Interface: Command Line Interface (CLI) or simple GUI with Tkinter
   - Tools: Code editor (VSCode, PyCharm, etc.)
 
 
-3. Design
+## 3. Design
 User Flow (CLI example):
   - Prompt user for first number
   - Prompt user for operator (+, -, *, /)
@@ -28,7 +28,7 @@ User Flow (CLI example):
   - Ask if user wants to calculate again or exit
 
 
-4. Development
+## 4. Development
 Step 1: Set up the project environment
   - Create project folder simple_calculator
   - Create Python file calculator.py
@@ -81,7 +81,7 @@ if __name__ == "__main__":
 
 ```
 
-5. Testing
+## 5. Testing
   - Run the script: python calculator.py
   - Try all operations, including invalid inputs (letters, divide by zero)
   - Ensure errors are handled gracefully
@@ -94,7 +94,7 @@ if __name__ == "__main__":
   - Add keyboard shortcuts
 
 
-7. Deploy / Package
+## 7. Deploy / Package
   - For CLI, just share the Python file
   - For GUI or broader audience:
     - Use tools like PyInstaller or cx_Freeze to create executables
