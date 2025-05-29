@@ -17,6 +17,8 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
 - [click me to understand devOps in detailed](Docs/Docs.md)
 
 
+## Examples
+[Simple-Calculator](Simple-Calculator/Docs.md)
 
 
 
